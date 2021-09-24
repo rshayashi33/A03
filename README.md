@@ -32,18 +32,20 @@ LAST PART: Version Control
 
 
 Part 2 Definition of Terms
-Branch: copy found in the code line
-Clone: the result of the same repository
-Commit: it sends the edited changes of the code to the repository
-Fetch: the act of retrieving data from the repository
-GIT: tracks any edits made in the file
-Github: carries all version controls
-Merge: combining data into one file
-Merge Conflict: when the same code is merged and causes an issue
-Push: edits that were comitted transfered to a remote repository
-Pull: notifies other about edits made in a remote repository
-Remote: URLs of the other copies found in the repository
-Repository: a place where files or data is stored
+1) Branch: copy found in the code line
+2) Clone: the result of the same repository
+3) Commit: it sends the edited changes of the code to the repository
+4) Fetch: the act of retrieving data from the repository
+5) GIT: tracks any edits made in the file
+6) Github: carries all version controls
+7) Merge: combining data into one file
+8) Merge Conflict: when the same code is merged and causes an issue
+9) Push: edits that were comitted transfered to a remote repository
+10) Pull: notifies other about edits made in a remote repository
+11) Remote: URLs of the other copies found in the repository
+12) Repository: a place where files or data is stored
+
+
 
 
 

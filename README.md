@@ -1,8 +1,10 @@
 # homework for sep 28, 2021
+#Remi Hayashi 
 #my UCID name could not be used because it is already taken so I slightly altered it by adding my last name
 
 PART 1: Tutorial on how to set up Git/Webstorm/Github
- PART 1: GITHUB
+*PART 1: GITHUB*
+
 1) Go to github.com
 2) Click sign up 
 3) create a new account
@@ -13,7 +15,9 @@ PART 1: Tutorial on how to set up Git/Webstorm/Github
 8) Input the Repository name 
 9) Check the box “add a README file”
 10) And finally, click “Create repository”. Now you have your own repository.
- PART 2: WEBSTORM
+
+*PART 2: WEBSTORM*
+
 11) Go to JetBrains https://www.jetbrains.com/community/education/#students
  12) Click “Apply Now”
  13)Input necessary information like your email, name, and click that you read and accept the JetBrains Account Agreement
@@ -22,13 +26,18 @@ PART 1: Tutorial on how to set up Git/Webstorm/Github
  16) Once the application is installed, open it up 
  17) Click File -> new -> project and create a project
  18) Click File -> new -> HTML file and name your HTML file a specific name and click enter
-PART 3: GIT
+
+*PART 3: GIT*
+
  20) Before proceeding it is important to also download GIT. Simply install the application to your computer and follow any directions as shown. https://git-scm.com/downloads
-LAST PART: Version Control
- 22) Going back to Webstorm’s HTML file, hover over VCS and click “Enable Version control interrogation.”
- 23) Have the version control system to be associated with Git
- 24) When you want to commit the code to GitHub, simply click “Commit”
- 25) Now your file is in a new repository file in Github that you can easily access.
+
+
+*LAST PART: Version Control*
+
+21) Going back to Webstorm’s HTML file, hover over VCS and click “Enable Version control interrogation.”
+ 22) Have the version control system to be associated with Git
+ 23) When you want to commit the code to GitHub, simply click “Commit”
+ 24) Now your file is in a new repository file in Github that you can easily access.
 
 
 Part 2 Definition of Terms
